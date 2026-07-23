@@ -1,6 +1,395 @@
 {
-  "generated": "2026-07-20 08:25",
+  "generated": "2026-07-22 19:39",
   "items": [
+    {
+      "id": "42484821",
+      "title": "Aflibercept 8 mg for neovascular age-related macular degeneration refractory to faricimab",
+      "journal": "Jpn J Ophthalmol",
+      "authors": "Moribe JH et al.",
+      "abstract": "Retrospective series of 27 nAMD eyes with persistent or recurrent exudation two months after faricimab; switching to intravitreal aflibercept 8 mg improved OCT fluid biomarkers, offering a next-line option when faricimab durability falls short.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42484821/",
+      "doi_url": "https://doi.org/10.1007/s10384-026-01407-3",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "AMD/GA",
+        "Anti-VEGF",
+        "Durability"
+      ],
+      "relevance": 26.5,
+      "popularity": 37.2,
+      "days_ago": 0,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42484679",
+      "title": "Comparative outcomes of aflibercept 8 mg and faricimab in neovascular AMD refractory to aflibercept 2 mg",
+      "journal": "Graefes Arch Clin Exp Ophthalmol",
+      "authors": "Jeong A et al.",
+      "abstract": "Retrospective chart review of 159 patients with nAMD resistant to aflibercept 2 mg who were switched to either aflibercept 8 mg or faricimab, comparing real-world anatomical and visual response and injection intervals between the two higher-durability options.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42484679/",
+      "doi_url": "https://doi.org/10.1007/s00417-026-07392-0",
+      "section": "medical",
+      "tags": [
+        "Cohort",
+        "AMD/GA",
+        "Anti-VEGF",
+        "Durability"
+      ],
+      "relevance": 33.5,
+      "popularity": 39.2,
+      "days_ago": 0,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42484373",
+      "title": "Restoration of impaired lysosomal function mitigates drusen-like deposit formation and cell death in Malattia Leventinese",
+      "journal": "JCI Insight",
+      "authors": "Inoue Y et al.",
+      "abstract": "Patient iPSC-derived RPE carrying the EFEMP1 mutation showed fibulin-3/ApoE aggregation, ER stress and lysosomal dysfunction; restoring lysosomal function reduced drusen-like deposits and cell death, pointing to a therapeutic avenue for this inherited macular degeneration and potentially AMD.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42484373/",
+      "doi_url": "https://doi.org/10.1172/jci.insight.194102",
+      "section": "medical",
+      "tags": [
+        "Basic / preclinical",
+        "AMD/GA",
+        "IRD",
+        "RPE",
+        "Basic science"
+      ],
+      "relevance": 21.5,
+      "popularity": 10.2,
+      "days_ago": 0,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42484505",
+      "title": "High frequency of paracentral acute middle maculopathy among symptomatic post-cardiac surgery patients",
+      "journal": "Retina",
+      "authors": "Agliati L et al.",
+      "abstract": "In a retrospective series of 67 patients with new visual symptoms after cardiac surgery, 24% had paracentral acute middle maculopathy on OCT, highlighting an under-recognised ischaemic maculopathy to look for in this setting.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42484505/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004925",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Retinal vascular",
+        "Imaging"
+      ],
+      "relevance": 44.5,
+      "popularity": 21.2,
+      "days_ago": 0,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42485567",
+      "title": "Deletion of 12/15-lipoxygenase preserves retinal thickness and function and restores dysregulated miRNAs in experimental diabetes",
+      "journal": "Diabetes",
+      "authors": "Moustafa M et al.",
+      "abstract": "In Akita diabetic mice, knocking out 12/15-lipoxygenase preserved retinal structure and function and selectively normalised dysregulated miRNAs, supporting the lipoxygenase pathway as an epigenetically linked target in diabetic retinopathy.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485567/",
+      "doi_url": "https://doi.org/10.2337/db26-0179",
+      "section": "medical",
+      "tags": [
+        "Basic / preclinical",
+        "Diabetic retinopathy",
+        "Basic science"
+      ],
+      "relevance": 21.5,
+      "popularity": 10.2,
+      "days_ago": 0,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42482314",
+      "title": "Artificial intelligence in inherited retinal diseases: imaging-based applications and emerging trends",
+      "journal": "Semin Ophthalmol",
+      "authors": "Maliagkani E et al.",
+      "abstract": "Narrative review of how deep-learning models applied to fundus autofluorescence, OCT and other retinal imaging are being used to improve diagnosis, monitoring and prognosis across the genetically heterogeneous inherited retinal diseases.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42482314/",
+      "doi_url": "https://doi.org/10.1080/08820538.2026.2707227",
+      "section": "medical",
+      "tags": [
+        "Review",
+        "IRD",
+        "AI",
+        "Imaging"
+      ],
+      "relevance": 26.6,
+      "popularity": 17.0,
+      "days_ago": 1,
+      "evidence": "Review"
+    },
+    {
+      "id": "42482214",
+      "title": "Breakpoint-level characterization of a novel CEP290 tandem duplication in trans with a pathogenic splice-site variant in Leber congenital amaurosis",
+      "journal": "BMC Med Genomics",
+      "authors": "Xu S et al.",
+      "abstract": "Genome sequencing resolved a previously unexplained case of Leber congenital amaurosis by identifying a novel CEP290 structural duplication in trans with a splice-site variant, illustrating why structural variants matter when gene-therapy eligibility hinges on a molecular diagnosis.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42482214/",
+      "doi_url": "https://doi.org/10.1186/s12920-026-02435-1",
+      "section": "medical",
+      "tags": [
+        "Case report",
+        "IRD",
+        "Gene therapy"
+      ],
+      "relevance": 18.1,
+      "popularity": 13.0,
+      "days_ago": 1,
+      "evidence": "Case report"
+    },
+    {
+      "id": "42476447",
+      "title": "ICON-PM: International Consensus on Nomenclature for Adult Pathologic Myopia",
+      "journal": "Prog Retin Eye Res",
+      "authors": "Spaide RF et al.",
+      "abstract": "A 32-expert international panel from 13 countries developed an OCT-based consensus terminology for adult pathologic myopia spanning atrophy, traction and neovascular domains, aiming to standardise how myopic maculopathy is described in research and practice.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476447/",
+      "doi_url": "https://doi.org/10.1016/j.preteyeres.2026.101495",
+      "section": "medical",
+      "tags": [
+        "Review",
+        "Myopia",
+        "Imaging"
+      ],
+      "relevance": 42.2,
+      "popularity": 21.8,
+      "days_ago": 2,
+      "evidence": "Review"
+    },
+    {
+      "id": "42476724",
+      "title": "Reticular pseudodrusen load is associated with an increased risk of stroke",
+      "journal": "BMJ Open Ophthalmol",
+      "authors": "Schwartz R et al.",
+      "abstract": "Using a deep-learning framework to quantify reticular pseudodrusen in UK Biobank participants, higher RPD load was associated with an increased risk of stroke, strengthening the link between this AMD phenotype and systemic vascular disease.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476724/",
+      "doi_url": "https://doi.org/10.1136/bmjophth-2025-002481",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "AMD/GA",
+        "Biomarkers",
+        "Imaging"
+      ],
+      "relevance": 25.7,
+      "popularity": 12.8,
+      "days_ago": 2,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42476825",
+      "title": "Global temporal trends of diabetic retinopathy-related blindness and vision loss, 1990-2021: an age-period-cohort analysis by diabetes type",
+      "journal": "Br J Ophthalmol",
+      "authors": "Guan Z et al.",
+      "abstract": "An age-period-cohort analysis of Global Burden of Disease 2021 data disentangled how age, period and birth-cohort effects shaped DR-related vision loss worldwide and separated the contributions of type 1 versus type 2 diabetes.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476825/",
+      "doi_url": "https://doi.org/10.1136/bjo-2025-328581",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Diabetic retinopathy",
+        "Epidemiology"
+      ],
+      "relevance": 35.7,
+      "popularity": 15.8,
+      "days_ago": 2,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42479493",
+      "title": "Community-level variation in on-label versus off-label anti-VEGF use and Medicare Part B spending",
+      "journal": "Retina",
+      "authors": "Franco JJ et al.",
+      "abstract": "Analysis of 2013-2023 Medicare Part B claims found that community sociodemographic characteristics track with the mix of on-label versus off-label anti-VEGF agents used, driving measurable differences in per-patient spending.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479493/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004920",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Anti-VEGF",
+        "Practice patterns",
+        "Health policy"
+      ],
+      "relevance": 44.1,
+      "popularity": 23.0,
+      "days_ago": 1,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42479585",
+      "title": "Enhancing diabetic retinopathy grading models using strictly curated synthetic images",
+      "journal": "Retina",
+      "authors": "Zhao J et al.",
+      "abstract": "Curated synthetic images generated by StyleGAN3 and a diffusion model improved deep-learning DR grading performance in limited-data settings, suggesting a route to augment scarce labelled datasets without severity downshift.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479585/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004919",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Diabetic retinopathy",
+        "AI",
+        "Imaging"
+      ],
+      "relevance": 44.1,
+      "popularity": 25.0,
+      "days_ago": 1,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42477692",
+      "title": "Salvianolic acid A mitigates diabetic retinopathy by inhibiting Sema4D/PlexinB1/RhoA/ROCK signaling in endothelial dysfunction",
+      "journal": "Chin Med",
+      "authors": "Zheng W et al.",
+      "abstract": "In diabetic retinopathy models, pharmacological targeting of Sema4D with salvianolic acid A suppressed the PlexinB1/RhoA/ROCK/pMLC2 cascade and improved astrocyte-linked endothelial dysfunction, nominating a VEGF-independent therapeutic target.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477692/",
+      "doi_url": "https://doi.org/10.1186/s13020-026-01468-z",
+      "section": "medical",
+      "tags": [
+        "Basic / preclinical",
+        "Diabetic retinopathy",
+        "Basic science"
+      ],
+      "relevance": 20.7,
+      "popularity": 9.8,
+      "days_ago": 2,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42476509",
+      "title": "Epidemiology of sports-related retinal injuries in emergency departments",
+      "journal": "Can J Ophthalmol",
+      "authors": "Mikhail D et al.",
+      "abstract": "National Electronic Injury Surveillance System data from 2005-2024 were used to describe the incidence, mechanisms and temporal trends of sports-related retinal injuries presenting to US emergency departments.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476509/",
+      "doi_url": "https://doi.org/10.1016/j.jcjo.2026.06.022",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Trauma",
+        "Epidemiology"
+      ],
+      "relevance": 27.7,
+      "popularity": 9.8,
+      "days_ago": 2,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42482128",
+      "title": "Adjunctive dexamethasone implant during vitrectomy with silicone oil for diabetic tractional retinal detachment: a systematic review and exploratory meta-analysis",
+      "journal": "Int J Retina Vitreous",
+      "authors": "Qureshi AJ et al.",
+      "abstract": "Systematic review and exploratory meta-analysis suggesting that adding a dexamethasone implant during pars plana vitrectomy with silicone oil tamponade for diabetic tractional retinal detachment may improve surgical outcomes, though the evidence base remains limited.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42482128/",
+      "doi_url": "https://doi.org/10.1186/s40942-026-00903-5",
+      "section": "surgical",
+      "tags": [
+        "Meta-analysis",
+        "Diabetic retinopathy",
+        "Surgical technique",
+        "Steroids"
+      ],
+      "relevance": 38.6,
+      "popularity": 12.0,
+      "days_ago": 1,
+      "evidence": "Meta-analysis"
+    },
+    {
+      "id": "42479498",
+      "title": "Amniotic membrane transplantation in vitrectomy for extra-large or long-standing macular holes: a prospective study",
+      "journal": "Retina",
+      "authors": "Wang Q et al.",
+      "abstract": "Prospective series of eight eyes with extra-large or long-standing (mostly recurrent) macular holes treated by vitrectomy with human amniotic membrane transplantation, evaluating closure rate, visual recovery and graft safety.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479498/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004923",
+      "section": "surgical",
+      "tags": [
+        "Cohort",
+        "Macular hole",
+        "Surgical technique"
+      ],
+      "relevance": 47.1,
+      "popularity": 20.0,
+      "days_ago": 1,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42484492",
+      "title": "Air jet-related retinal injury during contemporary 25-gauge vitrectomy: multimodal imaging of 3 cases",
+      "journal": "Retin Cases Brief Rep",
+      "authors": "Ishiyama S et al.",
+      "abstract": "Three eyes developed localized retinal whitening or injury attributed to the air jet during 25-gauge vitrectomy for macula-sparing rhegmatogenous detachment; multimodal imaging characterises the lesions and prompts preventive intraoperative measures.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42484492/",
+      "doi_url": "https://doi.org/10.1097/ICB.0000000000001965",
+      "section": "surgical",
+      "tags": [
+        "Case series",
+        "Surgical technique",
+        "Retinal detachment",
+        "Safety"
+      ],
+      "relevance": 19.5,
+      "popularity": 7.2,
+      "days_ago": 0,
+      "evidence": "Case series"
+    },
+    {
+      "id": "42477812",
+      "title": "Retinal sensitivity by microperimetry and its topographic correlation with macular structure after macular hole surgery",
+      "journal": "Int J Retina Vitreous",
+      "authors": "Pegado RS et al.",
+      "abstract": "Cross-sectional study correlating point-by-point microperimetric retinal sensitivity with total macular and ganglion cell complex thickness on OCT after idiopathic macular hole repair, linking postoperative structure to function.",
+      "date": "Jul 20, 2026",
+      "date_iso": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477812/",
+      "doi_url": "https://doi.org/10.1186/s40942-026-00904-4",
+      "section": "surgical",
+      "tags": [
+        "Observational",
+        "Macular hole",
+        "Surgical technique",
+        "Imaging"
+      ],
+      "relevance": 27.7,
+      "popularity": 11.8,
+      "days_ago": 2,
+      "evidence": "Observational"
+    },
     {
       "id": "42472569",
       "title": "Comparative endophthalmitis rates of anti-VEGF, corticosteroid implants and anti-complement injections: an IRIS Registry analysis",
@@ -20,9 +409,9 @@
         "Safety",
         "Registry"
       ],
-      "relevance": 47.1,
-      "popularity": 33.0,
-      "days_ago": 1,
+      "relevance": 46.3,
+      "popularity": 32.6,
+      "days_ago": 3,
       "evidence": "Cohort"
     },
     {
@@ -43,9 +432,9 @@
         "Surgical technique",
         "Pharmacotherapy"
       ],
-      "relevance": 34.0,
-      "popularity": 17.2,
-      "days_ago": 5,
+      "relevance": 33.2,
+      "popularity": 16.8,
+      "days_ago": 7,
       "evidence": "RCT"
     },
     {
@@ -65,9 +454,9 @@
         "Imaging",
         "Biomarkers"
       ],
-      "relevance": 32.7,
-      "popularity": 18.8,
-      "days_ago": 2,
+      "relevance": 31.9,
+      "popularity": 18.4,
+      "days_ago": 4,
       "evidence": "Cohort"
     },
     {
@@ -88,9 +477,9 @@
         "Real-world",
         "Durability"
       ],
-      "relevance": 23.7,
-      "popularity": 25.8,
-      "days_ago": 2,
+      "relevance": 22.9,
+      "popularity": 25.4,
+      "days_ago": 4,
       "evidence": "Observational"
     },
     {
@@ -111,9 +500,9 @@
         "Pediatric retina",
         "X-linked retinoschisis"
       ],
-      "relevance": 43.7,
-      "popularity": 20.8,
-      "days_ago": 2,
+      "relevance": 42.9,
+      "popularity": 20.4,
+      "days_ago": 4,
       "evidence": "Observational"
     },
     {
@@ -133,9 +522,9 @@
         "IRD",
         "Basic science"
       ],
-      "relevance": 20.7,
-      "popularity": 14.8,
-      "days_ago": 2,
+      "relevance": 19.9,
+      "popularity": 14.4,
+      "days_ago": 4,
       "evidence": "Basic / preclinical"
     },
     {
@@ -156,9 +545,9 @@
         "Drug delivery",
         "Usher syndrome"
       ],
-      "relevance": 21.1,
-      "popularity": 25.0,
-      "days_ago": 1,
+      "relevance": 20.3,
+      "popularity": 24.6,
+      "days_ago": 3,
       "evidence": "Basic / preclinical"
     },
     {
@@ -179,9 +568,9 @@
         "RPE",
         "Drug delivery"
       ],
-      "relevance": 20.3,
-      "popularity": 10.6,
-      "days_ago": 3,
+      "relevance": 19.5,
+      "popularity": 10.2,
+      "days_ago": 5,
       "evidence": "Basic / preclinical"
     },
     {
@@ -201,9 +590,9 @@
         "Surgical technique",
         "Safety"
       ],
-      "relevance": 26.1,
-      "popularity": 13.0,
-      "days_ago": 6,
+      "relevance": 25.3,
+      "popularity": 12.6,
+      "days_ago": 8,
       "evidence": "Observational"
     },
     {
@@ -223,9 +612,9 @@
         "Pediatric retina",
         "Biomarkers"
       ],
-      "relevance": 27.1,
-      "popularity": 10.0,
-      "days_ago": 1,
+      "relevance": 26.3,
+      "popularity": 9.6,
+      "days_ago": 3,
       "evidence": "Cohort"
     },
     {
@@ -245,9 +634,9 @@
         "RPE",
         "Basic science"
       ],
-      "relevance": 20.7,
-      "popularity": 11.8,
-      "days_ago": 2,
+      "relevance": 19.9,
+      "popularity": 11.4,
+      "days_ago": 4,
       "evidence": "Basic / preclinical"
     },
     {
@@ -267,9 +656,9 @@
         "RPE",
         "Basic science"
       ],
-      "relevance": 22.7,
-      "popularity": 8.8,
-      "days_ago": 2,
+      "relevance": 21.9,
+      "popularity": 8.4,
+      "days_ago": 4,
       "evidence": "Basic / preclinical"
     },
     {
@@ -289,9 +678,9 @@
         "Practice patterns",
         "Sustainability"
       ],
-      "relevance": 27.3,
-      "popularity": 11.6,
-      "days_ago": 3,
+      "relevance": 26.5,
+      "popularity": 11.2,
+      "days_ago": 5,
       "evidence": "Observational"
     },
     {
@@ -310,9 +699,9 @@
         "Diabetic retinopathy",
         "Imaging"
       ],
-      "relevance": 23.7,
-      "popularity": 9.8,
-      "days_ago": 2,
+      "relevance": 22.9,
+      "popularity": 9.4,
+      "days_ago": 4,
       "evidence": "Observational"
     },
     {
@@ -331,9 +720,9 @@
         "Ocular oncology",
         "Imaging"
       ],
-      "relevance": 20.7,
-      "popularity": 7.8,
-      "days_ago": 2,
+      "relevance": 19.9,
+      "popularity": 7.4,
+      "days_ago": 4,
       "evidence": "Case series"
     },
     {
@@ -355,9 +744,9 @@
         "Anti-VEGF",
         "Basic science"
       ],
-      "relevance": 17.5,
-      "popularity": 21.2,
-      "days_ago": 10,
+      "relevance": 16.7,
+      "popularity": 20.8,
+      "days_ago": 12,
       "evidence": "Basic / preclinical"
     },
     {
@@ -378,9 +767,9 @@
         "Complement",
         "Combination therapy"
       ],
-      "relevance": 46.3,
-      "popularity": 36.6,
-      "days_ago": 3,
+      "relevance": 45.5,
+      "popularity": 36.2,
+      "days_ago": 5,
       "evidence": "Cohort"
     },
     {
@@ -400,9 +789,9 @@
         "Surgical technique",
         "Laser"
       ],
-      "relevance": 42.8,
-      "popularity": 20.6,
-      "days_ago": 3,
+      "relevance": 42.0,
+      "popularity": 20.2,
+      "days_ago": 5,
       "evidence": "RCT"
     },
     {
@@ -422,9 +811,9 @@
         "Anti-VEGF",
         "Imaging"
       ],
-      "relevance": 25.7,
-      "popularity": 16.8,
-      "days_ago": 2,
+      "relevance": 24.9,
+      "popularity": 16.4,
+      "days_ago": 4,
       "evidence": "Observational"
     },
     {
@@ -445,9 +834,9 @@
         "PCV",
         "Imaging"
       ],
-      "relevance": 26.5,
-      "popularity": 34.2,
-      "days_ago": 5,
+      "relevance": 25.7,
+      "popularity": 34.8,
+      "days_ago": 7,
       "evidence": "Observational"
     },
     {
@@ -467,9 +856,9 @@
         "Drug delivery",
         "Safety"
       ],
-      "relevance": 30.3,
-      "popularity": 28.6,
-      "days_ago": 3,
+      "relevance": 29.5,
+      "popularity": 29.2,
+      "days_ago": 5,
       "evidence": "Cohort"
     },
     {
@@ -490,9 +879,9 @@
         "Basic science",
         "Inflammation"
       ],
-      "relevance": 20.3,
-      "popularity": 10.6,
-      "days_ago": 3,
+      "relevance": 19.5,
+      "popularity": 10.2,
+      "days_ago": 5,
       "evidence": "Basic / preclinical"
     },
     {
@@ -512,9 +901,9 @@
         "Retinal vascular",
         "Epidemiology"
       ],
-      "relevance": 33.0,
-      "popularity": 9.2,
-      "days_ago": 5,
+      "relevance": 32.2,
+      "popularity": 8.8,
+      "days_ago": 7,
       "evidence": "Meta-analysis"
     },
     {
@@ -533,9 +922,9 @@
         "Diabetic retinopathy",
         "Basic science"
       ],
-      "relevance": 21.8,
-      "popularity": 9.6,
-      "days_ago": 3,
+      "relevance": 21.0,
+      "popularity": 9.2,
+      "days_ago": 5,
       "evidence": "Review"
     },
     {
@@ -555,9 +944,9 @@
         "Surgical technique",
         "Epidemiology"
       ],
-      "relevance": 30.3,
-      "popularity": 9.6,
-      "days_ago": 3,
+      "relevance": 29.5,
+      "popularity": 9.2,
+      "days_ago": 5,
       "evidence": "Cohort"
     },
     {
@@ -577,9 +966,9 @@
         "PVR",
         "Surgical technique"
       ],
-      "relevance": 26.3,
-      "popularity": 10.6,
-      "days_ago": 3,
+      "relevance": 25.5,
+      "popularity": 10.2,
+      "days_ago": 5,
       "evidence": "Cohort"
     },
     {
@@ -599,9 +988,9 @@
         "Surgical technique",
         "Safety"
       ],
-      "relevance": 23.3,
-      "popularity": 9.6,
-      "days_ago": 3,
+      "relevance": 22.5,
+      "popularity": 9.2,
+      "days_ago": 5,
       "evidence": "Observational"
     },
     {
@@ -621,9 +1010,9 @@
         "Anti-VEGF",
         "Biomarkers"
       ],
-      "relevance": 22.9,
-      "popularity": 10.4,
-      "days_ago": 4,
+      "relevance": 22.1,
+      "popularity": 10.0,
+      "days_ago": 6,
       "evidence": "Observational"
     },
     {
@@ -643,9 +1032,9 @@
         "Drug delivery",
         "Basic science"
       ],
-      "relevance": 19.5,
-      "popularity": 7.2,
-      "days_ago": 5,
+      "relevance": 18.7,
+      "popularity": 6.8,
+      "days_ago": 7,
       "evidence": "Basic / preclinical"
     },
     {
@@ -665,9 +1054,9 @@
         "Basic science",
         "RPE"
       ],
-      "relevance": 22.3,
-      "popularity": 8.6,
-      "days_ago": 3,
+      "relevance": 21.5,
+      "popularity": 8.2,
+      "days_ago": 5,
       "evidence": "Basic / preclinical"
     },
     {
@@ -687,9 +1076,9 @@
         "Basic science",
         "RPE"
       ],
-      "relevance": 20.3,
-      "popularity": 7.6,
-      "days_ago": 3,
+      "relevance": 19.5,
+      "popularity": 7.2,
+      "days_ago": 5,
       "evidence": "Basic / preclinical"
     },
     {
@@ -709,9 +1098,9 @@
         "IRD",
         "Photoreceptor"
       ],
-      "relevance": 19.9,
-      "popularity": 7.4,
-      "days_ago": 4,
+      "relevance": 19.1,
+      "popularity": 10.0,
+      "days_ago": 6,
       "evidence": "Basic / preclinical"
     },
     {
@@ -731,9 +1120,9 @@
         "Epidemiology",
         "Global health"
       ],
-      "relevance": 34.9,
-      "popularity": 13.4,
-      "days_ago": 4,
+      "relevance": 34.1,
+      "popularity": 13.0,
+      "days_ago": 6,
       "evidence": "Observational"
     },
     {
@@ -753,9 +1142,9 @@
         "Gene therapy",
         "Epidemiology"
       ],
-      "relevance": 22.1,
-      "popularity": 12.0,
-      "days_ago": 6,
+      "relevance": 21.3,
+      "popularity": 11.6,
+      "days_ago": 8,
       "evidence": "Observational"
     },
     {
@@ -775,9 +1164,9 @@
         "Imaging",
         "Epidemiology"
       ],
-      "relevance": 23.3,
-      "popularity": 7.6,
-      "days_ago": 3,
+      "relevance": 22.5,
+      "popularity": 7.2,
+      "days_ago": 5,
       "evidence": "Observational"
     },
     {
@@ -797,9 +1186,9 @@
         "Retinal detachment",
         "Infectious retinitis"
       ],
-      "relevance": 24.9,
-      "popularity": 8.4,
-      "days_ago": 4,
+      "relevance": 24.1,
+      "popularity": 8.0,
+      "days_ago": 6,
       "evidence": "Observational"
     },
     {
@@ -818,9 +1207,9 @@
         "Uveitis",
         "Pediatric retina"
       ],
-      "relevance": 21.9,
-      "popularity": 8.4,
-      "days_ago": 4,
+      "relevance": 21.1,
+      "popularity": 8.0,
+      "days_ago": 6,
       "evidence": "Case series"
     },
     {
@@ -840,9 +1229,9 @@
         "Uveitis",
         "Paraneoplastic"
       ],
-      "relevance": 21.3,
-      "popularity": 9.6,
-      "days_ago": 3,
+      "relevance": 20.5,
+      "popularity": 9.2,
+      "days_ago": 5,
       "evidence": "Case report"
     },
     {
@@ -862,9 +1251,9 @@
         "Surgical technique",
         "Safety"
       ],
-      "relevance": 16.9,
-      "popularity": 7.4,
-      "days_ago": 4,
+      "relevance": 16.1,
+      "popularity": 7.0,
+      "days_ago": 6,
       "evidence": "Case report"
     },
     {
@@ -884,9 +1273,9 @@
         "Imaging",
         "Vision science"
       ],
-      "relevance": 31.1,
-      "popularity": 15.0,
-      "days_ago": 11,
+      "relevance": 30.3,
+      "popularity": 14.6,
+      "days_ago": 13,
       "evidence": "Cohort"
     },
     {
@@ -906,9 +1295,9 @@
         "Neuroprotection",
         "Photoreceptor"
       ],
-      "relevance": 27.5,
-      "popularity": 16.2,
-      "days_ago": 5,
+      "relevance": 26.7,
+      "popularity": 18.8,
+      "days_ago": 7,
       "evidence": "Basic / preclinical"
     },
     {
@@ -928,9 +1317,9 @@
         "Gene therapy",
         "Imaging"
       ],
-      "relevance": 27.9,
-      "popularity": 16.4,
-      "days_ago": 9,
+      "relevance": 27.1,
+      "popularity": 16.0,
+      "days_ago": 11,
       "evidence": "Cohort"
     },
     {
@@ -950,9 +1339,9 @@
         "Epidemiology",
         "Genetics"
       ],
-      "relevance": 35.5,
-      "popularity": 12.2,
-      "days_ago": 10,
+      "relevance": 34.7,
+      "popularity": 11.8,
+      "days_ago": 12,
       "evidence": "Cohort"
     },
     {
@@ -972,9 +1361,9 @@
         "Geographic atrophy",
         "Imaging"
       ],
-      "relevance": 43.9,
-      "popularity": 21.4,
-      "days_ago": 9,
+      "relevance": 43.1,
+      "popularity": 21.0,
+      "days_ago": 11,
       "evidence": "Cohort"
     },
     {
@@ -994,9 +1383,9 @@
         "Geographic atrophy",
         "Imaging"
       ],
-      "relevance": 43.1,
-      "popularity": 23.0,
-      "days_ago": 11,
+      "relevance": 42.3,
+      "popularity": 22.6,
+      "days_ago": 13,
       "evidence": "Cohort"
     },
     {
@@ -1015,9 +1404,9 @@
         "AMD",
         "Imaging"
       ],
-      "relevance": 18.9,
-      "popularity": 5.4,
-      "days_ago": 19,
+      "relevance": 18.1,
+      "popularity": 5.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -1037,9 +1426,9 @@
         "Myopic CNV",
         "Neovascular"
       ],
-      "relevance": 27.9,
-      "popularity": 18.4,
-      "days_ago": 9,
+      "relevance": 27.1,
+      "popularity": 18.0,
+      "days_ago": 11,
       "evidence": "Cohort"
     },
     {
@@ -1058,9 +1447,9 @@
         "DME",
         "Anti-VEGF"
       ],
-      "relevance": 30.6,
-      "popularity": 16.0,
-      "days_ago": 11,
+      "relevance": 29.8,
+      "popularity": 15.6,
+      "days_ago": 13,
       "evidence": "Meta-analysis"
     },
     {
@@ -1080,9 +1469,9 @@
         "Epidemiology",
         "Pharmacology"
       ],
-      "relevance": 43.9,
-      "popularity": 18.4,
-      "days_ago": 9,
+      "relevance": 43.1,
+      "popularity": 18.0,
+      "days_ago": 11,
       "evidence": "Cohort"
     },
     {
@@ -1102,9 +1491,9 @@
         "Biomarker",
         "Epidemiology"
       ],
-      "relevance": 20.5,
-      "popularity": 8.2,
-      "days_ago": 10,
+      "relevance": 19.7,
+      "popularity": 7.8,
+      "days_ago": 12,
       "evidence": "Observational"
     },
     {
@@ -1124,9 +1513,9 @@
         "Imaging/AI",
         "Screening"
       ],
-      "relevance": 13.1,
+      "relevance": 12.3,
       "popularity": 11.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1146,9 +1535,9 @@
         "Imaging/AI",
         "Basic science"
       ],
-      "relevance": 14.7,
-      "popularity": 12.8,
-      "days_ago": 17,
+      "relevance": 13.9,
+      "popularity": 12.4,
+      "days_ago": 19,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1167,9 +1556,9 @@
         "Organoid",
         "Review"
       ],
-      "relevance": 19.4,
-      "popularity": 15.4,
-      "days_ago": 9,
+      "relevance": 18.6,
+      "popularity": 15.0,
+      "days_ago": 11,
       "evidence": "Review"
     },
     {
@@ -1189,9 +1578,9 @@
         "Organoid",
         "Basic science"
       ],
-      "relevance": 17.1,
-      "popularity": 14.0,
-      "days_ago": 11,
+      "relevance": 16.3,
+      "popularity": 16.6,
+      "days_ago": 13,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1211,9 +1600,9 @@
         "Anti-VEGF",
         "Angiogenesis"
       ],
-      "relevance": 15.5,
-      "popularity": 15.2,
-      "days_ago": 15,
+      "relevance": 14.7,
+      "popularity": 14.8,
+      "days_ago": 17,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1232,9 +1621,9 @@
         "RVO",
         "Basic science"
       ],
-      "relevance": 18.3,
-      "popularity": 6.6,
-      "days_ago": 8,
+      "relevance": 17.5,
+      "popularity": 6.2,
+      "days_ago": 10,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1254,9 +1643,9 @@
         "Surgical technique",
         "Macular hole"
       ],
-      "relevance": 24.3,
-      "popularity": 6.6,
-      "days_ago": 8,
+      "relevance": 23.5,
+      "popularity": 6.2,
+      "days_ago": 10,
       "evidence": "Cohort"
     },
     {
@@ -1276,9 +1665,9 @@
         "Basic science",
         "Imaging"
       ],
-      "relevance": 25.5,
-      "popularity": 18.2,
-      "days_ago": 10,
+      "relevance": 24.7,
+      "popularity": 17.8,
+      "days_ago": 12,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1297,9 +1686,9 @@
         "Uveitis",
         "Basic science"
       ],
-      "relevance": 24.3,
-      "popularity": 14.6,
-      "days_ago": 13,
+      "relevance": 23.5,
+      "popularity": 14.2,
+      "days_ago": 15,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1319,9 +1708,9 @@
         "Cell therapy",
         "Review"
       ],
-      "relevance": 31.4,
-      "popularity": 22.4,
-      "days_ago": 14,
+      "relevance": 30.6,
+      "popularity": 22.0,
+      "days_ago": 16,
       "evidence": "Review"
     },
     {
@@ -1341,9 +1730,9 @@
         "Anti-VEGF",
         "Review"
       ],
-      "relevance": 17.8,
-      "popularity": 10.6,
-      "days_ago": 13,
+      "relevance": 17.0,
+      "popularity": 10.2,
+      "days_ago": 15,
       "evidence": "Review"
     },
     {
@@ -1363,9 +1752,9 @@
         "Anti-VEGF",
         "Faricimab"
       ],
-      "relevance": 25.9,
-      "popularity": 23.4,
-      "days_ago": 14,
+      "relevance": 25.1,
+      "popularity": 23.0,
+      "days_ago": 16,
       "evidence": "Cohort"
     },
     {
@@ -1385,9 +1774,9 @@
         "Nutrition",
         "Imaging"
       ],
-      "relevance": 20.9,
-      "popularity": 8.4,
-      "days_ago": 19,
+      "relevance": 20.1,
+      "popularity": 8.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -1407,9 +1796,9 @@
         "Nutrition",
         "Epidemiology"
       ],
-      "relevance": 17.7,
-      "popularity": 4.8,
-      "days_ago": 17,
+      "relevance": 16.9,
+      "popularity": 4.4,
+      "days_ago": 19,
       "evidence": "Observational"
     },
     {
@@ -1429,9 +1818,9 @@
         "Neovascular",
         "Basic science"
       ],
-      "relevance": 16.3,
-      "popularity": 7.6,
-      "days_ago": 13,
+      "relevance": 15.5,
+      "popularity": 7.2,
+      "days_ago": 15,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1450,9 +1839,9 @@
         "Basic science",
         "Review"
       ],
-      "relevance": 19.4,
-      "popularity": 6.4,
-      "days_ago": 19,
+      "relevance": 18.6,
+      "popularity": 6.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -1472,9 +1861,9 @@
         "Imaging/AI",
         "Screening"
       ],
-      "relevance": 16.3,
-      "popularity": 10.6,
-      "days_ago": 13,
+      "relevance": 15.5,
+      "popularity": 10.2,
+      "days_ago": 15,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1493,9 +1882,9 @@
         "Imaging",
         "Meta-analysis"
       ],
-      "relevance": 35.8,
-      "popularity": 10.6,
-      "days_ago": 13,
+      "relevance": 35.0,
+      "popularity": 10.2,
+      "days_ago": 15,
       "evidence": "Meta-analysis"
     },
     {
@@ -1515,9 +1904,9 @@
         "Epidemiology",
         "Biomarker"
       ],
-      "relevance": 20.9,
-      "popularity": 8.4,
-      "days_ago": 14,
+      "relevance": 20.1,
+      "popularity": 8.0,
+      "days_ago": 16,
       "evidence": "Observational"
     },
     {
@@ -1537,9 +1926,9 @@
         "Basic science",
         "Biomarker"
       ],
-      "relevance": 14.3,
-      "popularity": 6.6,
-      "days_ago": 18,
+      "relevance": 13.5,
+      "popularity": 6.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1559,9 +1948,9 @@
         "Genetics",
         "Basic science"
       ],
-      "relevance": 16.7,
-      "popularity": 10.8,
-      "days_ago": 12,
+      "relevance": 15.9,
+      "popularity": 10.4,
+      "days_ago": 14,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1580,9 +1969,9 @@
         "IRD",
         "Basic science"
       ],
-      "relevance": 17.9,
-      "popularity": 9.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 9.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1601,9 +1990,9 @@
         "IRD",
         "Gene therapy"
       ],
-      "relevance": 15.9,
-      "popularity": 16.4,
-      "days_ago": 14,
+      "relevance": 15.1,
+      "popularity": 16.0,
+      "days_ago": 16,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1623,9 +2012,9 @@
         "Gene therapy",
         "Basic science"
       ],
-      "relevance": 17.9,
-      "popularity": 14.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 14.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1644,9 +2033,9 @@
         "IRD",
         "Imaging"
       ],
-      "relevance": 23.9,
-      "popularity": 6.4,
-      "days_ago": 19,
+      "relevance": 23.1,
+      "popularity": 6.0,
+      "days_ago": 21,
       "evidence": "Cohort"
     },
     {
@@ -1665,9 +2054,9 @@
         "Uveitis",
         "Infectious"
       ],
-      "relevance": 16.3,
-      "popularity": 5.6,
-      "days_ago": 13,
+      "relevance": 15.5,
+      "popularity": 5.2,
+      "days_ago": 15,
       "evidence": "Case series"
     },
     {
@@ -1687,9 +2076,9 @@
         "Retinal vasculitis",
         "Infectious"
       ],
-      "relevance": 13.3,
-      "popularity": 5.6,
-      "days_ago": 13,
+      "relevance": 12.5,
+      "popularity": 5.2,
+      "days_ago": 15,
       "evidence": "Case report"
     },
     {
@@ -1708,9 +2097,9 @@
         "Uveitis",
         "Imaging"
       ],
-      "relevance": 24.3,
-      "popularity": 6.6,
-      "days_ago": 13,
+      "relevance": 23.5,
+      "popularity": 6.2,
+      "days_ago": 15,
       "evidence": "Cohort"
     },
     {
@@ -1730,9 +2119,9 @@
         "Surgical technique",
         "Macular buckle"
       ],
-      "relevance": 19.9,
-      "popularity": 7.4,
-      "days_ago": 14,
+      "relevance": 19.1,
+      "popularity": 7.0,
+      "days_ago": 16,
       "evidence": "Case series"
     },
     {
@@ -1752,9 +2141,9 @@
         "Submacular hemorrhage",
         "Surgical technique"
       ],
-      "relevance": 19.7,
-      "popularity": 5.8,
-      "days_ago": 12,
+      "relevance": 18.9,
+      "popularity": 5.4,
+      "days_ago": 14,
       "evidence": "Observational"
     },
     {
@@ -1774,9 +2163,9 @@
         "Retinoschisis",
         "Vitrectomy"
       ],
-      "relevance": 25.3,
-      "popularity": 11.6,
-      "days_ago": 13,
+      "relevance": 24.5,
+      "popularity": 11.2,
+      "days_ago": 15,
       "evidence": "Observational"
     },
     {
@@ -1796,9 +2185,9 @@
         "Vitrectomy",
         "Imaging"
       ],
-      "relevance": 20.9,
-      "popularity": 6.4,
-      "days_ago": 14,
+      "relevance": 20.1,
+      "popularity": 6.0,
+      "days_ago": 16,
       "evidence": "Observational"
     },
     {
@@ -1819,9 +2208,9 @@
         "Faricimab",
         "Imaging"
       ],
-      "relevance": 27.9,
-      "popularity": 19.4,
-      "days_ago": 14,
+      "relevance": 27.1,
+      "popularity": 19.0,
+      "days_ago": 16,
       "evidence": "Cohort"
     },
     {
@@ -1841,9 +2230,9 @@
         "Anti-VEGF",
         "Durability"
       ],
-      "relevance": 24.9,
-      "popularity": 28.4,
-      "days_ago": 14,
+      "relevance": 24.1,
+      "popularity": 32.0,
+      "days_ago": 16,
       "evidence": "Observational"
     },
     {
@@ -1862,9 +2251,9 @@
         "AMD",
         "Anti-VEGF"
       ],
-      "relevance": 18.9,
-      "popularity": 14.4,
-      "days_ago": 14,
+      "relevance": 18.1,
+      "popularity": 14.0,
+      "days_ago": 16,
       "evidence": "Observational"
     },
     {
@@ -1885,9 +2274,9 @@
         "Durability",
         "Trial data"
       ],
-      "relevance": 45.2,
-      "popularity": 32.8,
-      "days_ago": 17,
+      "relevance": 44.4,
+      "popularity": 33.4,
+      "days_ago": 19,
       "evidence": "RCT"
     },
     {
@@ -1905,9 +2294,9 @@
         "AMD",
         "Review"
       ],
-      "relevance": 37.4,
-      "popularity": 15.4,
-      "days_ago": 14,
+      "relevance": 36.6,
+      "popularity": 15.0,
+      "days_ago": 16,
       "evidence": "Review"
     },
     {
@@ -1929,7 +2318,7 @@
       ],
       "relevance": 9.5,
       "popularity": 4.0,
-      "days_ago": 59,
+      "days_ago": 61,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1949,9 +2338,9 @@
         "Basic science",
         "Angiogenesis"
       ],
-      "relevance": 17.1,
-      "popularity": 10.0,
-      "days_ago": 16,
+      "relevance": 16.3,
+      "popularity": 9.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1970,9 +2359,9 @@
         "DME",
         "Anti-VEGF"
       ],
-      "relevance": 25.1,
-      "popularity": 24.0,
-      "days_ago": 16,
+      "relevance": 24.3,
+      "popularity": 23.6,
+      "days_ago": 18,
       "evidence": "Cohort"
     },
     {
@@ -1992,9 +2381,9 @@
         "Screening",
         "Epidemiology"
       ],
-      "relevance": 22.1,
-      "popularity": 16.0,
-      "days_ago": 16,
+      "relevance": 21.3,
+      "popularity": 15.6,
+      "days_ago": 18,
       "evidence": "Observational"
     },
     {
@@ -2013,9 +2402,9 @@
         "DME",
         "Imaging/AI"
       ],
-      "relevance": 15.1,
-      "popularity": 5.0,
-      "days_ago": 16,
+      "relevance": 14.3,
+      "popularity": 4.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2035,9 +2424,9 @@
         "Basic science",
         "Organoid"
       ],
-      "relevance": 15.1,
-      "popularity": 13.0,
-      "days_ago": 16,
+      "relevance": 14.3,
+      "popularity": 12.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2057,9 +2446,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 21.9,
-      "popularity": 11.4,
-      "days_ago": 14,
+      "relevance": 21.1,
+      "popularity": 11.0,
+      "days_ago": 16,
       "evidence": "Case series"
     },
     {
@@ -2078,9 +2467,9 @@
         "IRD",
         "Genetics"
       ],
-      "relevance": 13.9,
-      "popularity": 7.4,
-      "days_ago": 14,
+      "relevance": 13.1,
+      "popularity": 7.0,
+      "days_ago": 16,
       "evidence": "Case series"
     },
     {
@@ -2099,9 +2488,9 @@
         "Uveitis",
         "Infectious"
       ],
-      "relevance": 10.9,
-      "popularity": 4.4,
-      "days_ago": 14,
+      "relevance": 10.1,
+      "popularity": 4.0,
+      "days_ago": 16,
       "evidence": "Case report"
     },
     {
@@ -2121,9 +2510,9 @@
         "Neovascular",
         "Imaging"
       ],
-      "relevance": 32.7,
-      "popularity": 12.8,
-      "days_ago": 17,
+      "relevance": 31.9,
+      "popularity": 12.4,
+      "days_ago": 19,
       "evidence": "Cohort"
     },
     {
@@ -2143,9 +2532,9 @@
         "PVR",
         "Vitrectomy"
       ],
-      "relevance": 25.1,
-      "popularity": 10.0,
-      "days_ago": 16,
+      "relevance": 24.3,
+      "popularity": 9.6,
+      "days_ago": 18,
       "evidence": "Cohort"
     },
     {
@@ -2164,9 +2553,9 @@
         "Vitrectomy",
         "Endophthalmitis"
       ],
-      "relevance": 18.7,
-      "popularity": 10.8,
-      "days_ago": 17,
+      "relevance": 17.9,
+      "popularity": 10.4,
+      "days_ago": 19,
       "evidence": "Case series"
     },
     {
@@ -2186,9 +2575,9 @@
         "PVR",
         "Vitrectomy"
       ],
-      "relevance": 11.7,
-      "popularity": 7.8,
-      "days_ago": 17,
+      "relevance": 10.9,
+      "popularity": 7.4,
+      "days_ago": 19,
       "evidence": "Case report"
     },
     {
@@ -2207,9 +2596,9 @@
         "Vitrectomy",
         "Surgical outcomes"
       ],
-      "relevance": 18.1,
-      "popularity": 5.0,
-      "days_ago": 16,
+      "relevance": 17.3,
+      "popularity": 4.6,
+      "days_ago": 18,
       "evidence": "Observational"
     },
     {
@@ -2228,9 +2617,9 @@
         "Intraocular tumor",
         "Imaging"
       ],
-      "relevance": 31.7,
-      "popularity": 14.8,
-      "days_ago": 17,
+      "relevance": 30.9,
+      "popularity": 14.4,
+      "days_ago": 19,
       "evidence": "Case report"
     },
     {
@@ -2250,9 +2639,9 @@
         "Oculomics",
         "ERM"
       ],
-      "relevance": 18.9,
-      "popularity": 9.4,
-      "days_ago": 14,
+      "relevance": 18.1,
+      "popularity": 9.0,
+      "days_ago": 16,
       "evidence": "Observational"
     },
     {
@@ -2272,9 +2661,9 @@
         "Imaging",
         "Diagnosis"
       ],
-      "relevance": 37.3,
-      "popularity": 16.6,
-      "days_ago": 18,
+      "relevance": 36.5,
+      "popularity": 16.2,
+      "days_ago": 20,
       "evidence": "Observational"
     },
     {
@@ -2294,9 +2683,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 37.3,
-      "popularity": 14.6,
-      "days_ago": 18,
+      "relevance": 36.5,
+      "popularity": 14.2,
+      "days_ago": 20,
       "evidence": "Observational"
     },
     {
@@ -2316,9 +2705,9 @@
         "Usher syndrome",
         "Epidemiology"
       ],
-      "relevance": 26.3,
-      "popularity": 13.6,
-      "days_ago": 18,
+      "relevance": 25.5,
+      "popularity": 13.2,
+      "days_ago": 20,
       "evidence": "Cohort"
     },
     {
@@ -2338,9 +2727,9 @@
         "Screening",
         "Epidemiology"
       ],
-      "relevance": 23.3,
-      "popularity": 11.6,
-      "days_ago": 18,
+      "relevance": 22.5,
+      "popularity": 11.2,
+      "days_ago": 20,
       "evidence": "Observational"
     },
     {
@@ -2359,9 +2748,9 @@
         "Uveitis",
         "Retinal vasculitis"
       ],
-      "relevance": 22.3,
-      "popularity": 5.6,
-      "days_ago": 18,
+      "relevance": 21.5,
+      "popularity": 9.2,
+      "days_ago": 20,
       "evidence": "Cohort"
     },
     {
@@ -2381,7 +2770,7 @@
       ],
       "relevance": 11.0,
       "popularity": 4.0,
-      "days_ago": 46,
+      "days_ago": 48,
       "evidence": "Review"
     },
     {
@@ -2401,9 +2790,9 @@
         "Basic science",
         "Angiogenesis"
       ],
-      "relevance": 14.3,
-      "popularity": 6.6,
-      "days_ago": 18,
+      "relevance": 13.5,
+      "popularity": 6.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2423,9 +2812,9 @@
         "Gene therapy",
         "Usher syndrome"
       ],
-      "relevance": 16.3,
-      "popularity": 19.6,
-      "days_ago": 18,
+      "relevance": 15.5,
+      "popularity": 19.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2445,9 +2834,9 @@
         "Basic science",
         "Lipid biology"
       ],
-      "relevance": 14.3,
-      "popularity": 4.6,
-      "days_ago": 18,
+      "relevance": 13.5,
+      "popularity": 4.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2467,9 +2856,9 @@
         "Neuroprotection",
         "Basic science"
       ],
-      "relevance": 15.9,
-      "popularity": 10.4,
-      "days_ago": 19,
+      "relevance": 15.1,
+      "popularity": 10.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2488,9 +2877,9 @@
         "Uveitis",
         "Basic science"
       ],
-      "relevance": 15.9,
-      "popularity": 5.4,
-      "days_ago": 19,
+      "relevance": 15.1,
+      "popularity": 5.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2509,9 +2898,9 @@
         "Oculomics",
         "Review"
       ],
-      "relevance": 35.8,
-      "popularity": 21.6,
-      "days_ago": 18,
+      "relevance": 35.0,
+      "popularity": 21.2,
+      "days_ago": 20,
       "evidence": "Review"
     },
     {
@@ -2531,9 +2920,9 @@
         "Anti-VEGF",
         "Faricimab"
       ],
-      "relevance": 26.3,
-      "popularity": 25.6,
-      "days_ago": 18,
+      "relevance": 25.5,
+      "popularity": 25.2,
+      "days_ago": 20,
       "evidence": "Cohort"
     },
     {
@@ -2553,9 +2942,9 @@
         "Faricimab",
         "Basic science"
       ],
-      "relevance": 17.9,
-      "popularity": 21.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 21.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2574,9 +2963,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 35.4,
-      "popularity": 14.4,
-      "days_ago": 19,
+      "relevance": 34.6,
+      "popularity": 14.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -2595,9 +2984,9 @@
         "Myopic traction",
         "Imaging"
       ],
-      "relevance": 30.9,
-      "popularity": 14.4,
-      "days_ago": 19,
+      "relevance": 30.1,
+      "popularity": 14.0,
+      "days_ago": 21,
       "evidence": "Case report"
     },
     {
@@ -2616,9 +3005,9 @@
         "Intraocular tumor",
         "Imaging"
       ],
-      "relevance": 39.9,
-      "popularity": 14.4,
-      "days_ago": 19,
+      "relevance": 39.1,
+      "popularity": 14.0,
+      "days_ago": 21,
       "evidence": "Cohort"
     },
     {
@@ -2637,9 +3026,9 @@
         "Vitrectomy",
         "Trial data"
       ],
-      "relevance": 24.8,
-      "popularity": 7.6,
-      "days_ago": 18,
+      "relevance": 24.0,
+      "popularity": 7.2,
+      "days_ago": 20,
       "evidence": "RCT"
     },
     {
@@ -2659,9 +3048,9 @@
         "Laser",
         "Surgical technique"
       ],
-      "relevance": 8.9,
-      "popularity": 3.4,
-      "days_ago": 19,
+      "relevance": 8.1,
+      "popularity": 3.0,
+      "days_ago": 21,
       "evidence": "Case report"
     },
     {
@@ -2683,7 +3072,7 @@
       ],
       "relevance": 34.0,
       "popularity": 26.0,
-      "days_ago": 97,
+      "days_ago": 99,
       "evidence": "RCT"
     },
     {
@@ -2705,7 +3094,7 @@
       ],
       "relevance": 21.5,
       "popularity": 15.0,
-      "days_ago": 82,
+      "days_ago": 84,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2726,8 +3115,8 @@
         "Basic science"
       ],
       "relevance": 19.5,
-      "popularity": 17.0,
-      "days_ago": 146,
+      "popularity": 20.0,
+      "days_ago": 148,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2747,9 +3136,9 @@
         "RGC",
         "Basic science"
       ],
-      "relevance": 15.8,
-      "popularity": 12.6,
-      "days_ago": 18,
+      "relevance": 15.0,
+      "popularity": 12.2,
+      "days_ago": 20,
       "evidence": "Review"
     },
     {
@@ -2770,7 +3159,7 @@
       ],
       "relevance": 23.5,
       "popularity": 16.0,
-      "days_ago": 96,
+      "days_ago": 98,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2791,7 +3180,7 @@
       ],
       "relevance": 19.5,
       "popularity": 14.0,
-      "days_ago": 151,
+      "days_ago": 153,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2812,9 +3201,9 @@
         "Faricimab",
         "Polypoidal"
       ],
-      "relevance": 19.4,
-      "popularity": 31.4,
-      "days_ago": 19,
+      "relevance": 18.6,
+      "popularity": 32.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -2835,9 +3224,9 @@
         "Imaging",
         "Polypoidal"
       ],
-      "relevance": 22.9,
-      "popularity": 13.4,
-      "days_ago": 19,
+      "relevance": 22.1,
+      "popularity": 13.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -2857,9 +3246,9 @@
         "Imaging",
         "Functional testing"
       ],
-      "relevance": 31.9,
-      "popularity": 12.4,
-      "days_ago": 19,
+      "relevance": 31.1,
+      "popularity": 12.0,
+      "days_ago": 21,
       "evidence": "Cohort"
     },
     {
@@ -2879,9 +3268,9 @@
         "Imaging",
         "Geographic atrophy"
       ],
-      "relevance": 20.9,
-      "popularity": 16.4,
-      "days_ago": 19,
+      "relevance": 20.1,
+      "popularity": 16.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -2902,9 +3291,9 @@
         "IRD",
         "Imaging"
       ],
-      "relevance": 21.4,
-      "popularity": 12.4,
-      "days_ago": 19,
+      "relevance": 20.6,
+      "popularity": 12.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -2924,9 +3313,9 @@
         "Complement",
         "Basic science"
       ],
-      "relevance": 13.9,
-      "popularity": 7.4,
-      "days_ago": 19,
+      "relevance": 13.1,
+      "popularity": 7.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2946,9 +3335,9 @@
         "Drug delivery",
         "Macular edema"
       ],
-      "relevance": 33.4,
-      "popularity": 7.4,
-      "days_ago": 19,
+      "relevance": 32.6,
+      "popularity": 7.0,
+      "days_ago": 21,
       "evidence": "Meta-analysis"
     },
     {
@@ -2967,9 +3356,9 @@
         "Uveitis",
         "Infectious"
       ],
-      "relevance": 18.9,
-      "popularity": 8.4,
-      "days_ago": 19,
+      "relevance": 18.1,
+      "popularity": 8.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -2989,9 +3378,9 @@
         "Imaging/AI",
         "Screening"
       ],
-      "relevance": 15.9,
-      "popularity": 12.4,
-      "days_ago": 19,
+      "relevance": 15.1,
+      "popularity": 12.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3010,9 +3399,9 @@
         "DR",
         "Imaging/AI"
       ],
-      "relevance": 15.9,
-      "popularity": 7.4,
-      "days_ago": 19,
+      "relevance": 15.1,
+      "popularity": 7.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3031,9 +3420,9 @@
         "DR",
         "Basic science"
       ],
-      "relevance": 17.9,
-      "popularity": 6.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 6.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3052,9 +3441,9 @@
         "IRD",
         "Basic science"
       ],
-      "relevance": 17.9,
-      "popularity": 12.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 15.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3074,9 +3463,9 @@
         "Basic science",
         "Neuroinflammation"
       ],
-      "relevance": 17.9,
-      "popularity": 9.4,
-      "days_ago": 19,
+      "relevance": 17.1,
+      "popularity": 9.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3095,9 +3484,9 @@
         "Basic science",
         "Review"
       ],
-      "relevance": 19.4,
-      "popularity": 6.4,
-      "days_ago": 19,
+      "relevance": 18.6,
+      "popularity": 6.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -3117,9 +3506,9 @@
         "Vitrectomy",
         "Imaging"
       ],
-      "relevance": 39.9,
-      "popularity": 14.4,
-      "days_ago": 19,
+      "relevance": 39.1,
+      "popularity": 14.0,
+      "days_ago": 21,
       "evidence": "Cohort"
     },
     {
@@ -3138,9 +3527,9 @@
         "RD",
         "Imaging/AI"
       ],
-      "relevance": 27.4,
-      "popularity": 10.4,
-      "days_ago": 19,
+      "relevance": 26.6,
+      "popularity": 10.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -3160,9 +3549,9 @@
         "DME",
         "Durability"
       ],
-      "relevance": 12.4,
-      "popularity": 15.4,
-      "days_ago": 19,
+      "relevance": 11.6,
+      "popularity": 15.0,
+      "days_ago": 21,
       "evidence": ""
     },
     {
@@ -3185,7 +3574,7 @@
       ],
       "relevance": 24.0,
       "popularity": 21.0,
-      "days_ago": 78,
+      "days_ago": 80,
       "evidence": "RCT"
     },
     {
@@ -3206,7 +3595,7 @@
       ],
       "relevance": 16.5,
       "popularity": 6.0,
-      "days_ago": 69,
+      "days_ago": 71,
       "evidence": "Observational"
     },
     {
@@ -3226,9 +3615,9 @@
         "Anti-VEGF",
         "Basic science"
       ],
-      "relevance": 15.9,
-      "popularity": 8.4,
-      "days_ago": 19,
+      "relevance": 15.1,
+      "popularity": 8.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3248,9 +3637,9 @@
         "Imaging/AI",
         "Screening"
       ],
-      "relevance": 13.1,
+      "relevance": 12.3,
       "popularity": 11.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3270,9 +3659,9 @@
         "Basic science",
         "Biomarker"
       ],
-      "relevance": 20.1,
+      "relevance": 19.3,
       "popularity": 8.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Observational"
     },
     {
@@ -3292,9 +3681,9 @@
         "Gene/Cell therapy",
         "Patient perspective"
       ],
-      "relevance": 16.9,
-      "popularity": 4.4,
-      "days_ago": 19,
+      "relevance": 16.1,
+      "popularity": 4.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -3316,7 +3705,7 @@
       ],
       "relevance": 19.5,
       "popularity": 6.0,
-      "days_ago": 73,
+      "days_ago": 75,
       "evidence": "Cohort"
     },
     {
@@ -3335,9 +3724,9 @@
         "Imaging",
         "Oculomics"
       ],
-      "relevance": 16.9,
-      "popularity": 8.4,
-      "days_ago": 19,
+      "relevance": 16.1,
+      "popularity": 8.0,
+      "days_ago": 21,
       "evidence": "Observational"
     },
     {
@@ -3356,9 +3745,9 @@
         "Imaging/AI",
         "Oculomics"
       ],
-      "relevance": 16.9,
+      "relevance": 16.1,
       "popularity": 12.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Observational"
     },
     {
@@ -3378,9 +3767,9 @@
         "RD",
         "Imaging"
       ],
-      "relevance": 27.7,
+      "relevance": 26.9,
       "popularity": 14.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Case report"
     },
     {
@@ -3400,9 +3789,9 @@
         "Basic science",
         "Vision science"
       ],
-      "relevance": 21.5,
-      "popularity": 13.2,
-      "days_ago": 20,
+      "relevance": 20.7,
+      "popularity": 13.0,
+      "days_ago": 22,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3423,9 +3812,9 @@
         "Drug delivery",
         "Basic science"
       ],
-      "relevance": 23.5,
-      "popularity": 13.2,
-      "days_ago": 20,
+      "relevance": 22.7,
+      "popularity": 13.0,
+      "days_ago": 22,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3445,9 +3834,9 @@
         "Health policy",
         "Epidemiology"
       ],
-      "relevance": 36.1,
-      "popularity": 17.0,
-      "days_ago": 21,
+      "relevance": 35.3,
+      "popularity": 19.0,
+      "days_ago": 23,
       "evidence": "Observational"
     },
     {
@@ -3470,7 +3859,7 @@
       ],
       "relevance": 24.0,
       "popularity": 26.0,
-      "days_ago": 32,
+      "days_ago": 34,
       "evidence": "RCT"
     },
     {
@@ -3490,9 +3879,9 @@
         "Anti-VEGF",
         "Faricimab"
       ],
-      "relevance": 20.7,
-      "popularity": 18.0,
-      "days_ago": 27,
+      "relevance": 19.9,
+      "popularity": 21.0,
+      "days_ago": 29,
       "evidence": "Cohort"
     },
     {
@@ -3512,9 +3901,9 @@
         "Anti-VEGF",
         "Durability"
       ],
-      "relevance": 26.4,
-      "popularity": 24.0,
-      "days_ago": 24,
+      "relevance": 25.6,
+      "popularity": 25.0,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -3534,9 +3923,9 @@
         "Anti-VEGF",
         "Imaging"
       ],
-      "relevance": 43.2,
+      "relevance": 42.4,
       "popularity": 27.0,
-      "days_ago": 22,
+      "days_ago": 24,
       "evidence": "RCT"
     },
     {
@@ -3555,9 +3944,9 @@
         "Anti-VEGF",
         "Meta-analysis"
       ],
-      "relevance": 26.6,
+      "relevance": 25.8,
       "popularity": 11.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Meta-analysis"
     },
     {
@@ -3578,9 +3967,9 @@
         "Complement",
         "Drug development"
       ],
-      "relevance": 17.1,
+      "relevance": 16.3,
       "popularity": 19.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3600,9 +3989,9 @@
         "Geographic atrophy",
         "Imaging"
       ],
-      "relevance": 21.1,
+      "relevance": 20.3,
       "popularity": 16.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Cohort"
     },
     {
@@ -3622,9 +4011,9 @@
         "Basic science",
         "Fibrosis"
       ],
-      "relevance": 19.9,
+      "relevance": 19.1,
       "popularity": 13.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3643,9 +4032,9 @@
         "AMD",
         "Imaging/AI"
       ],
-      "relevance": 14.7,
+      "relevance": 13.9,
       "popularity": 7.0,
-      "days_ago": 22,
+      "days_ago": 24,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3666,7 +4055,7 @@
       ],
       "relevance": 15.0,
       "popularity": 21.0,
-      "days_ago": 32,
+      "days_ago": 34,
       "evidence": "Review"
     },
     {
@@ -3684,9 +4073,9 @@
         "Anti-VEGF",
         "Review"
       ],
-      "relevance": 15.0,
+      "relevance": 14.2,
       "popularity": 8.0,
-      "days_ago": 25,
+      "days_ago": 27,
       "evidence": "Review"
     },
     {
@@ -3704,9 +4093,9 @@
         "Basic science",
         "Review"
       ],
-      "relevance": 15.8,
+      "relevance": 15.0,
       "popularity": 5.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Review"
     },
     {
@@ -3727,9 +4116,9 @@
         "Biosimilar",
         "Trial data"
       ],
-      "relevance": 25.6,
+      "relevance": 24.8,
       "popularity": 18.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "RCT"
     },
     {
@@ -3749,9 +4138,9 @@
         "Imaging/AI",
         "Screening"
       ],
-      "relevance": 28.1,
+      "relevance": 27.3,
       "popularity": 20.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Observational"
     },
     {
@@ -3771,9 +4160,9 @@
         "Screening",
         "Epidemiology"
       ],
-      "relevance": 28.6,
+      "relevance": 27.8,
       "popularity": 9.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Meta-analysis"
     },
     {
@@ -3792,9 +4181,9 @@
         "Neovascular glaucoma",
         "Review"
       ],
-      "relevance": 14.6,
+      "relevance": 13.8,
       "popularity": 8.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Review"
     },
     {
@@ -3813,9 +4202,9 @@
         "DME",
         "Epidemiology"
       ],
-      "relevance": 37.9,
+      "relevance": 37.1,
       "popularity": 20.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Cohort"
     },
     {
@@ -3835,9 +4224,9 @@
         "Anti-VEGF",
         "Imaging"
       ],
-      "relevance": 19.9,
-      "popularity": 8.0,
-      "days_ago": 24,
+      "relevance": 19.1,
+      "popularity": 10.0,
+      "days_ago": 26,
       "evidence": "Cohort"
     },
     {
@@ -3856,9 +4245,9 @@
         "DR",
         "Basic science"
       ],
-      "relevance": 12.7,
+      "relevance": 11.9,
       "popularity": 12.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Basic / preclinical"
     },
     {
@@ -3879,7 +4268,7 @@
       ],
       "relevance": 11.0,
       "popularity": 4.0,
-      "days_ago": 34,
+      "days_ago": 36,
       "evidence": "Review"
     },
     {
@@ -3898,9 +4287,9 @@
         "DR",
         "Imaging"
       ],
-      "relevance": 18.1,
+      "relevance": 17.3,
       "popularity": 7.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Observational"
     },
     {
@@ -3921,7 +4310,7 @@
       ],
       "relevance": 12.5,
       "popularity": 6.0,
-      "days_ago": 30,
+      "days_ago": 32,
       "evidence": "Observational"
     },
     {
@@ -3942,7 +4331,7 @@
       ],
       "relevance": 12.5,
       "popularity": 9.0,
-      "days_ago": 30,
+      "days_ago": 32,
       "evidence": "Observational"
     },
     {
@@ -3962,9 +4351,9 @@
         "Diabetic macular ischemia",
         "Trial data"
       ],
-      "relevance": 15.4,
+      "relevance": 14.6,
       "popularity": 8.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Review"
     },
     {
@@ -3984,9 +4373,9 @@
         "Angiogenesis",
         "Basic science"
       ],
-      "relevance": 14.7,
+      "relevance": 13.9,
       "popularity": 5.0,
-      "days_ago": 22,
+      "days_ago": 24,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4005,9 +4394,9 @@
         "DR",
         "Basic science"
       ],
-      "relevance": 10.7,
+      "relevance": 9.9,
       "popularity": 9.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4027,9 +4416,9 @@
         "Basic science",
         "Organoid"
       ],
-      "relevance": 15.5,
-      "popularity": 13.2,
-      "days_ago": 20,
+      "relevance": 14.7,
+      "popularity": 16.0,
+      "days_ago": 22,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4048,9 +4437,9 @@
         "Gene/Cell therapy",
         "Basic science"
       ],
-      "relevance": 20.3,
+      "relevance": 19.5,
       "popularity": 16.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4069,9 +4458,9 @@
         "Cell therapy",
         "Basic science"
       ],
-      "relevance": 18.3,
-      "popularity": 15.0,
-      "days_ago": 23,
+      "relevance": 17.5,
+      "popularity": 18.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4090,9 +4479,9 @@
         "Gene therapy",
         "IRD"
       ],
-      "relevance": 30.3,
+      "relevance": 29.5,
       "popularity": 19.0,
-      "days_ago": 28,
+      "days_ago": 30,
       "evidence": "Case series"
     },
     {
@@ -4111,9 +4500,9 @@
         "Gene therapy",
         "IRD"
       ],
-      "relevance": 14.3,
+      "relevance": 13.5,
       "popularity": 10.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Case series"
     },
     {
@@ -4132,9 +4521,9 @@
         "IRD",
         "Genetics"
       ],
-      "relevance": 17.9,
+      "relevance": 17.1,
       "popularity": 10.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Case series"
     },
     {
@@ -4153,9 +4542,9 @@
         "IRD",
         "Imaging"
       ],
-      "relevance": 18.7,
+      "relevance": 17.9,
       "popularity": 7.0,
-      "days_ago": 22,
+      "days_ago": 24,
       "evidence": "Case series"
     },
     {
@@ -4174,9 +4563,9 @@
         "IRD",
         "Basic science"
       ],
-      "relevance": 15.1,
+      "relevance": 14.3,
       "popularity": 5.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4198,7 +4587,7 @@
       ],
       "relevance": 15.5,
       "popularity": 13.0,
-      "days_ago": 32,
+      "days_ago": 34,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4217,9 +4606,9 @@
         "DR",
         "Drug delivery"
       ],
-      "relevance": 13.5,
+      "relevance": 12.7,
       "popularity": 5.0,
-      "days_ago": 25,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4237,9 +4626,9 @@
         "Basic / preclinical",
         "Drug delivery"
       ],
-      "relevance": 13.1,
+      "relevance": 12.3,
       "popularity": 5.0,
-      "days_ago": 26,
+      "days_ago": 28,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4258,9 +4647,9 @@
         "Drug delivery",
         "Suprachoroidal"
       ],
-      "relevance": 14.7,
+      "relevance": 13.9,
       "popularity": 10.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4282,7 +4671,7 @@
       ],
       "relevance": 10.5,
       "popularity": 10.0,
-      "days_ago": 32,
+      "days_ago": 34,
       "evidence": "Case report"
     },
     {
@@ -4301,9 +4690,9 @@
         "AMD",
         "Drug delivery"
       ],
-      "relevance": 12.3,
+      "relevance": 11.5,
       "popularity": 5.0,
-      "days_ago": 28,
+      "days_ago": 30,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4323,7 +4712,7 @@
       ],
       "relevance": 13.0,
       "popularity": 5.0,
-      "days_ago": 59,
+      "days_ago": 61,
       "evidence": "Review"
     },
     {
@@ -4343,9 +4732,9 @@
         "Imaging",
         "Review"
       ],
-      "relevance": 34.6,
+      "relevance": 33.8,
       "popularity": 14.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Review"
     },
     {
@@ -4364,9 +4753,9 @@
         "Sarcoidosis",
         "Review"
       ],
-      "relevance": 15.8,
+      "relevance": 15.0,
       "popularity": 5.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Review"
     },
     {
@@ -4385,9 +4774,9 @@
         "Uveitis",
         "Epidemiology"
       ],
-      "relevance": 37.9,
+      "relevance": 37.1,
       "popularity": 16.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Cohort"
     },
     {
@@ -4406,9 +4795,9 @@
         "Uveitis",
         "Retinal vasculitis"
       ],
-      "relevance": 15.1,
+      "relevance": 14.3,
       "popularity": 5.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Case series"
     },
     {
@@ -4428,9 +4817,9 @@
         "Retinal vasculitis",
         "Imaging"
       ],
-      "relevance": 18.9,
-      "popularity": 6.0,
-      "days_ago": 24,
+      "relevance": 18.1,
+      "popularity": 8.0,
+      "days_ago": 26,
       "evidence": "Observational"
     },
     {
@@ -4450,9 +4839,9 @@
         "Imaging",
         "Review"
       ],
-      "relevance": 16.2,
+      "relevance": 15.4,
       "popularity": 6.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Review"
     },
     {
@@ -4471,9 +4860,9 @@
         "Uveitis",
         "White dot syndromes"
       ],
-      "relevance": 31.9,
+      "relevance": 31.1,
       "popularity": 14.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Case series"
     },
     {
@@ -4492,9 +4881,9 @@
         "Uveitis",
         "Infectious"
       ],
-      "relevance": 11.1,
+      "relevance": 10.3,
       "popularity": 4.0,
-      "days_ago": 26,
+      "days_ago": 28,
       "evidence": "Case series"
     },
     {
@@ -4513,9 +4902,9 @@
         "Uveitis",
         "Infectious"
       ],
-      "relevance": 17.9,
+      "relevance": 17.1,
       "popularity": 4.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Cohort"
     },
     {
@@ -4535,9 +4924,9 @@
         "Basic science",
         "Review"
       ],
-      "relevance": 12.2,
+      "relevance": 11.4,
       "popularity": 6.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Review"
     },
     {
@@ -4556,9 +4945,9 @@
         "Uveitis",
         "Drug-induced"
       ],
-      "relevance": 5.7,
+      "relevance": 4.9,
       "popularity": 3.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Case report"
     },
     {
@@ -4578,9 +4967,9 @@
         "PVR",
         "Statins"
       ],
-      "relevance": 39.1,
+      "relevance": 38.3,
       "popularity": 19.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Cohort"
     },
     {
@@ -4600,9 +4989,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 29.0,
+      "relevance": 28.2,
       "popularity": 6.0,
-      "days_ago": 25,
+      "days_ago": 27,
       "evidence": "Meta-analysis"
     },
     {
@@ -4622,9 +5011,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 19.3,
+      "relevance": 18.5,
       "popularity": 6.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Observational"
     },
     {
@@ -4644,9 +5033,9 @@
         "Myopic traction",
         "Laser"
       ],
-      "relevance": 23.6,
+      "relevance": 22.8,
       "popularity": 7.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "RCT"
     },
     {
@@ -4666,9 +5055,9 @@
         "Silicone oil",
         "PVR"
       ],
-      "relevance": 15.9,
+      "relevance": 15.1,
       "popularity": 9.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Case series"
     },
     {
@@ -4687,9 +5076,9 @@
         "RD",
         "Prophylaxis"
       ],
-      "relevance": 37.9,
+      "relevance": 37.1,
       "popularity": 14.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Cohort"
     },
     {
@@ -4708,9 +5097,9 @@
         "Surgical education",
         "Scleral buckle"
       ],
-      "relevance": 18.9,
+      "relevance": 18.1,
       "popularity": 6.0,
-      "days_ago": 24,
+      "days_ago": 26,
       "evidence": "Observational"
     },
     {
@@ -4730,9 +5119,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 16.1,
+      "relevance": 15.3,
       "popularity": 4.0,
-      "days_ago": 21,
+      "days_ago": 23,
       "evidence": "Observational"
     },
     {
@@ -4751,9 +5140,9 @@
         "Vitrectomy",
         "Surgical outcomes"
       ],
-      "relevance": 38.3,
+      "relevance": 37.5,
       "popularity": 14.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Cohort"
     },
     {
@@ -4773,9 +5162,9 @@
         "Vitrectomy",
         "Surgical technique"
       ],
-      "relevance": 16.7,
+      "relevance": 15.9,
       "popularity": 6.0,
-      "days_ago": 22,
+      "days_ago": 24,
       "evidence": "Case series"
     },
     {
@@ -4794,9 +5183,9 @@
         "Intraocular tumor",
         "Vitrectomy"
       ],
-      "relevance": 11.7,
+      "relevance": 10.9,
       "popularity": 10.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Case report"
     },
     {
@@ -4818,7 +5207,7 @@
       ],
       "relevance": 34.0,
       "popularity": 27.0,
-      "days_ago": 39,
+      "days_ago": 41,
       "evidence": "RCT"
     },
     {
@@ -4840,7 +5229,7 @@
       ],
       "relevance": 19.5,
       "popularity": 14.0,
-      "days_ago": 31,
+      "days_ago": 33,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4862,7 +5251,7 @@
       ],
       "relevance": 17.5,
       "popularity": 15.0,
-      "days_ago": 97,
+      "days_ago": 99,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4882,9 +5271,9 @@
         "Basic science",
         "Photoreceptors"
       ],
-      "relevance": 25.5,
-      "popularity": 16.0,
-      "days_ago": 25,
+      "relevance": 24.7,
+      "popularity": 19.0,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4904,9 +5293,9 @@
         "Basic science",
         "Photoreceptors"
       ],
-      "relevance": 25.5,
-      "popularity": 16.0,
-      "days_ago": 25,
+      "relevance": 24.7,
+      "popularity": 19.0,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4926,9 +5315,9 @@
         "Basic science",
         "Metabolism"
       ],
-      "relevance": 20.3,
+      "relevance": 19.5,
       "popularity": 16.0,
-      "days_ago": 23,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4948,9 +5337,9 @@
         "Basic science",
         "Angiogenesis"
       ],
-      "relevance": 18.7,
+      "relevance": 17.9,
       "popularity": 16.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4971,7 +5360,7 @@
       ],
       "relevance": 23.5,
       "popularity": 23.0,
-      "days_ago": 61,
+      "days_ago": 63,
       "evidence": "Basic / preclinical"
     },
     {
@@ -4992,7 +5381,7 @@
       ],
       "relevance": 17.5,
       "popularity": 13.0,
-      "days_ago": 55,
+      "days_ago": 57,
       "evidence": "Basic / preclinical"
     },
     {
@@ -5013,7 +5402,7 @@
       ],
       "relevance": 25.0,
       "popularity": 16.0,
-      "days_ago": 67,
+      "days_ago": 69,
       "evidence": "Review"
     },
     {
@@ -5032,9 +5421,9 @@
         "Basic science",
         "Neural plasticity"
       ],
-      "relevance": 20.7,
+      "relevance": 19.9,
       "popularity": 14.0,
-      "days_ago": 27,
+      "days_ago": 29,
       "evidence": "Basic / preclinical"
     },
     {
@@ -5056,7 +5445,7 @@
       ],
       "relevance": 17.5,
       "popularity": 13.0,
-      "days_ago": 159,
+      "days_ago": 161,
       "evidence": "Basic / preclinical"
     }
   ]
