@@ -1,6 +1,209 @@
 {
-  "generated": "2026-07-29 07:09",
+  "generated": "2026-07-29 12:30",
   "items": [
+    {
+      "id": "42524860",
+      "title": "Efficacy and safety of subthreshold laser in patients with acute central serous chorioretinopathy: a systematic review and meta-analysis",
+      "journal": "Retina",
+      "authors": "Canote R et al.",
+      "abstract": "Meta-analysis of 6 RCTs (401 patients) in acute central serous chorioretinopathy found subthreshold laser is safer than conventional laser with similar visual gains and less RPE damage but lower subretinal-fluid resolution; its advantages over observation or half-dose photodynamic therapy remain uncertain given low-certainty evidence.",
+      "date": "Jul 29, 2026",
+      "date_iso": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524860/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004927",
+      "section": "medical",
+      "tags": [
+        "Meta-analysis",
+        "Central serous chorioretinopathy",
+        "Laser therapy",
+        "Imaging"
+      ],
+      "relevance": 55.0,
+      "popularity": 20.2,
+      "days_ago": 0,
+      "evidence": "Meta-analysis"
+    },
+    {
+      "id": "42518711",
+      "title": "Visual gains with faricimab vs aflibercept 8 mg in naive retinovascular disease: global real-world cases and literature review",
+      "journal": "Clin Ophthalmol",
+      "authors": "Mansour HA et al.",
+      "abstract": "Retrospective multicenter series of 500 treatment-naive eyes (395 faricimab, 105 aflibercept 8 mg) across neovascular AMD, DME and RVO-related macular edema found significant and statistically comparable visual gains between the two agents (adjusted p=0.67).",
+      "date": "Jul 15, 2026",
+      "date_iso": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518711/",
+      "doi_url": "https://doi.org/10.2147/OPTH.S622037",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Anti-VEGF",
+        "AMD/GA",
+        "DME",
+        "Retinal vein occlusion",
+        "Real-world"
+      ],
+      "relevance": 22.9,
+      "popularity": 31.4,
+      "days_ago": 14,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42507292",
+      "title": "Real-world outcomes of faricimab for polypoidal choroidal vasculopathy in a multi-ethnic cohort: a 12-month retrospective study",
+      "journal": "Ophthalmol Ther",
+      "authors": "Fu DJ et al.",
+      "abstract": "In 159 polypoidal choroidal vasculopathy eyes, 12-month faricimab improved vision by +6.8 letters in treatment-naive eyes (mean 9.6 injections) and significantly reduced central subfield thickness in both naive and switched eyes, supporting faricimab as a real-world PCV option.",
+      "date": "Jul 27, 2026",
+      "date_iso": "2026-07-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42507292/",
+      "doi_url": "https://doi.org/10.1007/s40123-026-01457-3",
+      "section": "medical",
+      "tags": [
+        "Cohort",
+        "Anti-VEGF",
+        "Polypoidal choroidal vasculopathy",
+        "AMD/GA",
+        "Real-world"
+      ],
+      "relevance": 30.7,
+      "popularity": 32.8,
+      "days_ago": 2,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42508708",
+      "title": "Metabolomic and lipidomic profiling reveals dysregulated glycerophospholipid metabolism in new-onset acute Vogt-Koyanagi-Harada disease",
+      "journal": "Am J Ophthalmol",
+      "authors": "Deng Y et al.",
+      "abstract": "Plasma metabolomics and lipidomics in 26 treatment-naive acute Vogt-Koyanagi-Harada patients versus 39 controls found broad lipid downregulation with glycerophospholipid metabolism as the core perturbed pathway; a 25-glycerophospholipid signature discriminated VKH with an AUC of 0.95.",
+      "date": "Jul 27, 2026",
+      "date_iso": "2026-07-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508708/",
+      "doi_url": "https://doi.org/10.1016/j.ajo.2026.07.049",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Uveitis",
+        "Biomarkers",
+        "Choroid",
+        "Basic science"
+      ],
+      "relevance": 43.7,
+      "popularity": 19.8,
+      "days_ago": 2,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42506901",
+      "title": "Association between pre-diagnostic macular thickness and risk of age-related macular degeneration",
+      "journal": "Retina",
+      "authors": "Chen J et al.",
+      "abstract": "In 40,078 AMD-free UK Biobank participants, OCT latent-profile analysis identified a macular-thickness profile (thinner superior, thicker central and outer subfields) linked to a 39-59% higher risk of subsequent AMD, suggesting early structural biomarkers precede clinical diagnosis.",
+      "date": "Jul 27, 2026",
+      "date_iso": "2026-07-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42506901/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004935",
+      "section": "medical",
+      "tags": [
+        "Cohort",
+        "AMD/GA",
+        "Imaging",
+        "Biomarkers",
+        "Epidemiology"
+      ],
+      "relevance": 46.7,
+      "popularity": 17.8,
+      "days_ago": 2,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42521177",
+      "title": "Duration-dependent decoupling of the macular neurovascular unit in type 2 diabetes without retinopathy on ultra-widefield OCT angiography",
+      "journal": "Photodiagnosis Photodyn Ther",
+      "authors": "Chen C et al.",
+      "abstract": "Cross-sectional ultra-widefield swept-source OCTA of 295 eyes showed that in type 2 diabetes without clinical retinopathy, deep-capillary vascular density and ganglion cell-inner plexiform layer thin progressively with disease duration and their coupling breaks down, marking preclinical neurovascular decoupling before fundoscopic DR.",
+      "date": "Jul 28, 2026",
+      "date_iso": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521177/",
+      "doi_url": "https://doi.org/10.1016/j.pdpdt.2026.105590",
+      "section": "medical",
+      "tags": [
+        "Observational",
+        "Diabetic retinopathy",
+        "Imaging",
+        "Biomarkers"
+      ],
+      "relevance": 24.1,
+      "popularity": 13.0,
+      "days_ago": 1,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42524815",
+      "title": "Lattice retinal degeneration: to treat or not to treat? That is the question",
+      "journal": "Ophthalmol Retina",
+      "authors": "Smiddy WE et al.",
+      "abstract": "Bascom Palmer editorial weighing the evidence for versus against prophylactic laser or cryotherapy treatment of lattice degeneration to prevent rhegmatogenous retinal detachment.",
+      "date": "Jul 29, 2026",
+      "date_iso": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524815/",
+      "doi_url": "https://doi.org/10.1016/j.oret.2026.06.033",
+      "section": "surgical",
+      "tags": [
+        "Review",
+        "Retinal detachment",
+        "Prophylaxis"
+      ],
+      "relevance": 43.0,
+      "popularity": 18.2,
+      "days_ago": 0,
+      "evidence": "Review"
+    },
+    {
+      "id": "42523172",
+      "title": "Early subretinal tissue plasminogen activator with vitrectomy for massive subretinal hemorrhage: a pilot study",
+      "journal": "Eur J Ophthalmol",
+      "authors": "Albano V et al.",
+      "abstract": "In 11 eyes with massive subretinal hemorrhage, pars plana vitrectomy combined with subretinal t-PA, pneumatic displacement and anti-VEGF displaced blood away from the fovea in all eyes and improved vision in about half by 3 months, with central macular thickness roughly halved.",
+      "date": "Jul 29, 2026",
+      "date_iso": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523172/",
+      "doi_url": "https://doi.org/10.1177/11206721261471199",
+      "section": "surgical",
+      "tags": [
+        "Observational",
+        "Vitrectomy",
+        "Subretinal hemorrhage",
+        "Anti-VEGF",
+        "AMD/GA"
+      ],
+      "relevance": 28.5,
+      "popularity": 13.2,
+      "days_ago": 0,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42258712",
+      "title": "Functional asymmetry and essential structural roles of PDE6-alpha and PDE6-beta subunits in rod-photoreceptor integrity",
+      "journal": "Proc Natl Acad Sci U S A",
+      "authors": "Smidak R et al.",
+      "abstract": "Using four transgenic mouse lines, this study shows both catalytic subunits of rod phosphodiesterase-6 are essential for photoreceptor survival, but the beta-subunit plays a disproportionately dominant role in enzyme stability and visual function - directly relevant to PDE6-linked retinitis pigmentosa.",
+      "date": "Jun 8, 2026",
+      "date_iso": "2026-06-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42258712/",
+      "doi_url": "https://doi.org/10.1073/pnas.2604088123",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "Photoreceptor",
+        "Inherited retinal disease",
+        "Basic science"
+      ],
+      "relevance": 17.5,
+      "popularity": 16.0,
+      "days_ago": 51,
+      "evidence": "Basic / preclinical"
+    },
     {
       "id": "42518877",
       "title": "Real-world safety of intravitreal complement inhibitor avacincaptad pegol for geographic atrophy",
@@ -4522,7 +4725,7 @@
         "Polypoidal"
       ],
       "relevance": 15.8,
-      "popularity": 32.0,
+      "popularity": 35.0,
       "days_ago": 28,
       "evidence": "Review"
     },
@@ -4545,7 +4748,7 @@
         "Polypoidal"
       ],
       "relevance": 19.3,
-      "popularity": 13.0,
+      "popularity": 16.0,
       "days_ago": 28,
       "evidence": "Observational"
     },
@@ -4893,7 +5096,7 @@
         "Imaging"
       ],
       "relevance": 24.0,
-      "popularity": 21.0,
+      "popularity": 24.0,
       "days_ago": 87,
       "evidence": "RCT"
     },
@@ -5244,7 +5447,7 @@
         "Imaging"
       ],
       "relevance": 40.0,
-      "popularity": 27.0,
+      "popularity": 30.0,
       "days_ago": 31,
       "evidence": "RCT"
     },
