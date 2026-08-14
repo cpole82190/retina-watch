@@ -1,6 +1,191 @@
 {
-  "generated": "2026-08-14 04:55",
+  "generated": "2026-08-14 07:09",
   "items": [
+    {
+      "id": "42579483",
+      "title": "Approaching a connectome of the human foveal retina",
+      "journal": "Proc Natl Acad Sci U S A",
+      "authors": "Kim YJ et al.",
+      "abstract": "Deep-learning segmentation of a piece of human fovea produced a working-draft connectome: ~3,000 cells classified into 51 neuronal and three glial types with their synapses. The human fovea shows reduced cell-type diversity versus periphery (only 13 ganglion-cell types vs ~20), trading a broad feature-detector repertoire for a small number of high-density, high-precision visual pathways - a foundational map of human central-vision circuitry.",
+      "date": "Aug 11, 2026",
+      "date_iso": "2026-08-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579483/",
+      "doi_url": "https://doi.org/10.1073/pnas.2603286123",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "Basic science",
+        "Photoreceptor",
+        "Connectomics",
+        "Vision",
+        "Single-cell"
+      ],
+      "relevance": 28.3,
+      "popularity": 27.6,
+      "days_ago": 3,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42595755",
+      "title": "Genome-wide CRISPR screening identifies cellular factors controlling nonviral genome editing efficiency",
+      "journal": "Nat Commun",
+      "authors": "Saxena S et al.",
+      "abstract": "A genome-wide CRISPR screen across 19,114 genes mapped cellular barriers to non-viral genome editing and identified negative regulators (GJB2, BET1L) whose depletion boosted base-editing up to 6-fold. In a patient-derived retinal channelopathy model, knockdown improved lipid-nanoparticle base-editing efficiency over 3.5-fold and restored Kir7.1 ion-channel function - nominating host factors as targets to potentiate genetic therapies.",
+      "date": "Aug 13, 2026",
+      "date_iso": "2026-08-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595755/",
+      "doi_url": "https://doi.org/10.1038/s41467-026-76350-5",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "Gene/cell therapy",
+        "Basic science",
+        "Drug delivery",
+        "Inherited retinal disease"
+      ],
+      "relevance": 29.1,
+      "popularity": 19.0,
+      "days_ago": 1,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42595769",
+      "title": "Transition from intermediate to late AMD and associated changes in vision by two years: INTERCEPT-AMD Report 3",
+      "journal": "Eye (Lond)",
+      "authors": "Gurudas S et al.",
+      "abstract": "Prospective multicentre European cohort of 983 intermediate-AMD eyes found ~13% progressed to late AMD within two years (7.6% to neovascular AMD, 5.5% to complete RPE/outer-retinal atrophy). Older age, incomplete RORA, subretinal drusenoid deposits and fellow-eye nAMD raised risk, and eyes converting to nAMD lost the most vision - informing risk stratification and endpoints for intermediate-AMD trials.",
+      "date": "Aug 13, 2026",
+      "date_iso": "2026-08-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595769/",
+      "doi_url": "https://doi.org/10.1038/s41433-026-04759-9",
+      "section": "medical",
+      "tags": [
+        "Cohort",
+        "AMD/GA",
+        "Imaging",
+        "Biomarkers",
+        "Clinical endpoints"
+      ],
+      "relevance": 33.1,
+      "popularity": 11.0,
+      "days_ago": 1,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42593648",
+      "title": "Understanding the geographic atrophy journey: patient and physician perspectives to inform better care",
+      "journal": "Ophthalmol Ther",
+      "authors": "Baker L et al.",
+      "abstract": "Qualitative interviews with a patient and retina specialists on the geographic-atrophy experience, highlighting the emotional burden of diagnosis, the limits of current progression-slowing complement therapies (which do not restore vision), the disruption of frequent visits and intravitreal injections, the lack of dosing endpoints, and the need for long-acting formulations, patient education and peer support.",
+      "date": "Aug 13, 2026",
+      "date_iso": "2026-08-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593648/",
+      "doi_url": "https://doi.org/10.1007/s40123-026-01459-1",
+      "section": "medical",
+      "tags": [
+        "Review",
+        "AMD/GA",
+        "Patient perspective",
+        "Treatment burden",
+        "Clinical endpoints"
+      ],
+      "relevance": 26.6,
+      "popularity": 24.0,
+      "days_ago": 1,
+      "evidence": "Review"
+    },
+    {
+      "id": "42589542",
+      "title": "Lipid-retinoid metabolic network links genetic variation to molecular heterogeneity in inherited retinal degeneration",
+      "journal": "Int J Mol Sci",
+      "authors": "Solek P et al.",
+      "abstract": "Integrative proteomic and biochemical analysis of 203 genetically characterized inherited-retinal-degeneration patients identified a coordinated lipid-retinoid-photoreceptor metabolic network - with pronounced sex-dependent differences - linking variant pathogenicity to systemic lipid remodeling, and nominating lipid and retinoid metabolism as contributors to IRD molecular heterogeneity.",
+      "date": "Aug 1, 2026",
+      "date_iso": "2026-08-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42589542/",
+      "doi_url": "https://doi.org/10.3390/ijms27156888",
+      "section": "medical",
+      "tags": [
+        "Basic / preclinical",
+        "Inherited retinal disease",
+        "Basic science",
+        "Metabolism",
+        "Genetics",
+        "Photoreceptor"
+      ],
+      "relevance": 16.3,
+      "popularity": 8.6,
+      "days_ago": 13,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42593647",
+      "title": "Visual acuity influences visual outcome in endophthalmitis: a 10-year retrospective observational cohort analysis",
+      "journal": "Ophthalmol Ther",
+      "authors": "Nowosielski Y et al.",
+      "abstract": "Ten-year retrospective cohort of 118 eyes with endophthalmitis found baseline best-corrected visual acuity was the main prognostic factor for recovery. In exogenous cases, delayed surgery carried a ~5.7-fold higher re-intervention hazard than initial tap-and-inject - supporting prompt tap-and-inject and early intervention over delayed vitrectomy.",
+      "date": "Aug 13, 2026",
+      "date_iso": "2026-08-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593647/",
+      "doi_url": "https://doi.org/10.1007/s40123-026-01468-0",
+      "section": "surgical",
+      "tags": [
+        "Cohort",
+        "Endophthalmitis",
+        "Surgical technique",
+        "Vitrectomy"
+      ],
+      "relevance": 31.1,
+      "popularity": 19.0,
+      "days_ago": 1,
+      "evidence": "Cohort"
+    },
+    {
+      "id": "42590141",
+      "title": "Anatomical outcomes of traumatic macular hole surgery: role of OCT parameters and ILM flap techniques",
+      "journal": "J Clin Med",
+      "authors": "Ozcaliskan S et al.",
+      "abstract": "Retrospective series of 33 traumatic macular holes repaired by pars plana vitrectomy achieved 84.8% single-surgery closure with significant visual gains (1.34 to 0.95 logMAR). Larger minimum linear and basal diameters predicted poorer final vision, while flap-assisted ILM techniques closed more holes than conventional peeling (95.8% vs 55.6%).",
+      "date": "Aug 3, 2026",
+      "date_iso": "2026-08-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42590141/",
+      "doi_url": "https://doi.org/10.3390/jcm15156040",
+      "section": "surgical",
+      "tags": [
+        "Observational",
+        "Macular hole",
+        "Ocular trauma",
+        "Surgical technique",
+        "Vitrectomy",
+        "Imaging"
+      ],
+      "relevance": 20.1,
+      "popularity": 6.0,
+      "days_ago": 11,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42593527",
+      "title": "Three-dimensional vitreous rendering depicting a hyaloid artery remnant in posterior persistent fetal vasculature",
+      "journal": "Retina",
+      "authors": "Li R et al.",
+      "abstract": "Case using three-dimensional vitreous rendering on OCT to depict a hyaloid artery remnant in posterior persistent fetal vasculature, illustrating how volumetric vitreous imaging can map congenital vitreoretinal anomalies.",
+      "date": "Aug 13, 2026",
+      "date_iso": "2026-08-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593527/",
+      "doi_url": "https://doi.org/10.1097/IAE.0000000000004963",
+      "section": "surgical",
+      "tags": [
+        "Case report",
+        "Imaging",
+        "Surgical technique",
+        "Persistent fetal vasculature"
+      ],
+      "relevance": 38.1,
+      "popularity": 18.0,
+      "days_ago": 1,
+      "evidence": "Case report"
+    },
     {
       "id": "42585000",
       "title": "MicroRNA-34a suppresses KLF2 to promote pathological angiogenesis through the CXCR4/CXCL12 pathway in age-related macular degeneration",
@@ -3957,7 +4142,7 @@
         "Imaging"
       ],
       "relevance": 30.1,
-      "popularity": 14.0,
+      "popularity": 16.0,
       "days_ago": 21,
       "evidence": "Case report"
     },
@@ -5522,7 +5707,7 @@
         "Imaging"
       ],
       "relevance": 35.5,
-      "popularity": 20.0,
+      "popularity": 22.0,
       "days_ago": 34,
       "evidence": "Cohort"
     },
@@ -9172,7 +9357,7 @@
         "Surgical technique"
       ],
       "relevance": 16.5,
-      "popularity": 6.0,
+      "popularity": 8.0,
       "days_ago": 48,
       "evidence": "Observational"
     },
